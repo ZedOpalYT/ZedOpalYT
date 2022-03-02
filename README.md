@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZedOpalYT
-- 👀 I’m interested in making games in roblox and learrning new things
-- 🌱 I’m currently learning Lua programming language
+- 👀 I’m interested in making games in roblox, love (lua) and learrning new things
+- 🌱 I’m currently learning Lua, HTML, CSS, Pyhton and a bit of c++ and c#
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me mail me at (aarvinroblox@gmail.com)
 
